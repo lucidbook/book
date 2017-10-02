@@ -2,6 +2,5 @@
 
 [Introduction](./introduction.md)
 - [The Basics](./the-basics/index.md)
-
-[Helpers](./helpers.md)
-- [Dissociation](./helpers/dissociation.md)
+- [Techniques](./techniques/index.md)
+    - [Dissociation](./helpers/dissociation.md)
