@@ -27,7 +27,7 @@ If you're familiar with Reddit's comment and post formatting you'll feel right
 at home.
 
 ### Submit an Issue
-Just create an issue with the title "New Chapter: <Title>", starting with the
+Just create an issue with the title "New Chapter: [Title]", starting with the
 chapter you want it to be added to, followed by the text you want in it. A
 contributor will add it for you. This is the easiest but least flexible way to
 contribute.
