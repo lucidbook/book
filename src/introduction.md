@@ -18,6 +18,7 @@ Paranormal guides or articles.
 - [Lucid Dreaming Subreddit](https://www.reddit.com/r/LucidDreaming/)
 
 ## Contributing
+You can submit contributions to this book at the [GitHub repository](https://github.com/lucidbook/book) for it.
 Contributions are done using "Pull Requests", see the [GitHub documentation on pull requests](https://help.github.com/articles/about-pull-requests/)
 on how to contribute.
 If you feel this is too complex or too much work for you to do right now, just
