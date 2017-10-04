@@ -1,7 +1,8 @@
 # Introduction
-Welcome (potential) lucid dreamer! If you got linked this you might have been
-asked to add a guide to this book. See the "Contributing" section below on how
-to do that.
+Welcome (potential) lucid dreamer!
+- If you're new to lucid dreaming or don't know what it is, start with the chapter "The Basics".
+- If you want to contribute to this book, see the "Contributing" section below
+    on how to do that.
 
 _This book is a heavy work in progress. Feel free to add new guides haphazardly
 if you feel the book needs the subject and doesn't have it yet, other
