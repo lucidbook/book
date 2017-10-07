@@ -89,7 +89,7 @@ want.
 ## Okay, how do I start?
 Great!
 Welcome to the start of your journey.
+Remember that this is neither a sprint nor a marathon.
+It's a gentle walk in the park, and if you push yourself to run way too fast you
+might just burn yourself out.
 Move on to the next chapter of the guide.
-
-_This guide is still being written, the next chapter isn't finished yet, instead
-go to the [Lucid Dreaming Subreddit](https://www.reddit.com/r/LucidDreaming/)_
