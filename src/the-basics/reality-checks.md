@@ -153,7 +153,7 @@ You've set the first steps into your lucid dreaming adventure.
 If you haven't yet, that's alright.
 Just keep trying, and keep reading!
 The rest of this guide will have some more tips and tricks to make things easier
-and to help you in the dreams when you get in.
+and to help you in the dreams when you become lucid.
 
 _This guide is still being written, the next chapter isn't finished yet, instead
 go to the [Lucid Dreaming Subreddit](https://www.reddit.com/r/LucidDreaming/)_
