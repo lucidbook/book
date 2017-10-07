@@ -49,11 +49,11 @@ You'll need to meditate and visualize those barriers you've just made. Visualize
 Start your meditation, when you feel like it, start visualizing the beginning of a dream, you'll start at your spawn zone, still not lucid and unaware that this is a dream.
 However because of the rules you've just set, you'll be stuck in this spawn zone, so you might try to get out or wonder why you cannot get out, *and that's the thing, that is the trigger for lucidity*.
 
-You will extremely likely start to ask yourself legitemate question about why this is happening, may it be a dream? You will reality check at this point or just know you're dreaming. Tada!
+You will extremely likely start to ask yourself legitimate questions about why this is happening, may it be a dream? You will reality check at this point or just know you're dreaming. Tada!
 
 Now you are able to go through the barriers and get out of the spawn point because you are lucid now!
 
-### After a day or a few days...
+### After a day or a few days of meditation and visualization...
 
 That's it! The barriers have now carried over to your future dreams, and now you will be getting lucid every dream! You'll spawn at your spawn point, you will be stuck in this spawn point as the barriers do not let you through. You'll wonder why this happens and suspect this is a dream, thus doing a reality check, and becoming lucid!
 
