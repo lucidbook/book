@@ -1,0 +1,6 @@
+title = "LucidBook"
+author = "Various"
+description = "A creative commons guide on lucid dreaming."
+
+[output.html]
+curly-quotes = true
