@@ -9,14 +9,16 @@ if you feel the book needs the subject and doesn't have it yet, other
 contributors will clean them up and organize them._
 
 ## What you will find in this book
-Structured guides on various lucid dreaming techniques. How to lucid dream and
-how to do various things while lucid dreaming.
+- How to lucid dream and how to do various things while lucid dreaming.
+- Structured guides on various lucid dreaming techniques.
 
 ## What you will _not_ find in this book
-Paranormal guides or articles.
+- Paranormal guides or articles.
+- Devices, supplements or other paid books.
 
 ## Useful Links
 - [Lucid Dreaming Subreddit](https://www.reddit.com/r/LucidDreaming/)
+- [DreamViews Forum & Guides](http://www.dreamviews.com/)
 
 ## Contributing
 You can submit contributions to this book at the [GitHub repository](https://github.com/lucidbook/book) for it.
@@ -26,6 +28,9 @@ This book is created using [mdBook](https://github.com/azerupi/mdBook), and is
 written in the "Markdown" format.
 If you're familiar with Reddit's comment and post formatting you'll feel right
 at home.
+
+Don't forget to read the style guide in the repository's README.md before
+writing.
 
 ### Submit an Issue
 Just create an issue with the title "New Chapter: [Title]", starting with the

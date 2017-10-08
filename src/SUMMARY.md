@@ -4,5 +4,5 @@
 - [The Basics](./the-basics/index.md)
     - [Reality Checks](./the-basics/reality-checks.md)
 - [Techniques](./techniques/index.md)
-    - [BILD](./techniques/BILD.md)
+    - [BILD](./techniques/bild.md)
     - [Dissociation](./techniques/dissociation.md)

@@ -155,5 +155,10 @@ Just keep trying, and keep reading!
 The rest of this guide will have some more tips and tricks to make things easier
 and to help you in the dreams when you become lucid.
 
+# Further Reading
+An extra technique you could make use of to remember your reality checks is
+called "Prospective Memory", there's no guide on this currently in this book.
+Instead you could read [this one](http://www.world-of-lucid-dreaming.com/how-to-have-more-lucid-dreams-with-prospective-memory.html).
+
 _This guide is still being written, the next chapter isn't finished yet, instead
 go to the [Lucid Dreaming Subreddit](https://www.reddit.com/r/LucidDreaming/)_
