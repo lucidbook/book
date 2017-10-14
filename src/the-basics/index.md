@@ -58,6 +58,14 @@ But you can train this!
 This guide has some tips and tricks on how to improve your dream recall from
 nothing, to multiple dreams per day.
 
+## But won't this make me really tired?
+Nope!
+Dreaming happens during REM sleep, which isn't meant to give you rest.
+You can spend every single dream completely lucid and not miss out on any rest
+at all.
+As well while lucid dreaming you may become more aware of how sleep works and
+how to better plan in your sleep to be more rested overall.
+
 ## I need this **RIGHT NOW** what's the fastest way to do this?
 Woah there, calm yourself down a bit.
 Lucid dreaming certainly is very appealing, and a great experience, but rushing
