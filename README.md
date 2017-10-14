@@ -20,9 +20,10 @@ format everything to be consistent.
     article.
 - Links to other articles in the guide or outside it are under a heading
     "Further Reading".
-- Attribution is avoided, these guides are worked and improved on by everyone.
+- Articles and techniques are not attributed to individual people within the
+    book.
+    These guides and techniques are worked and improved on by everyone.
     If you feel attribution is needed, use a "References" or "Further Reading"
     section at the bottom of the article.
-- Similarly, nobody owns an article.
-    Anyone can submit changes to any article.
-    Changes are curated but they aren't blocked based on article ownership.
+    Giving thanks to specific people for contributing or writing articles is of
+    course fine, it's just important that nobody *owns* an article.
