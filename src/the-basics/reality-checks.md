@@ -119,41 +119,42 @@ And one day, you'll suddenly be standing there, looking at your hands having 6
 fingers.
 
 ## HOLY CRAP MY HANDS HAVE 6 FINGERS
-Calm down!
 So you've suddenly realized you're in a lucid dream, what next?
-First thing you should be doing is calming yourself if this is your first few
-times.
-This will be an incredibly exciting experience, but that excitement can wake you
-up!
-Take a deep breath, try to calm yourself, and try to remember the things you
-wanted to do while lucid dreaming.
+You'll likely be very excited, the world around you may suddenly become a lot
+more vivid.
+Some however, then might wake up.
 
-This may be very hard for you to do in the moment, after all you've traveled to
-a completely different universe.
-It's normal to be excited at that.
-If you can't calm yourself down and you wake up, that's alright!
-You've just had your first lucid dreaming success, enjoy the feeling of it,
-keep the memory of it fresh in your mind during the day.
-Don't forget to write it down in your dream journal!
-You'll be calmer next time, and calmer the time after that.
-You've done it once, you can do it again!
+A common theory is that the excitement is what wakes you up, but this doesn't
+seem to line up with the experiences of regular lucid dreamers.
+Rather, it seems that this theory has come from that beginner lucid dreamers
+are all the more excited when they get their first lucid dream.
+Rather, it's just more likely to become lucid at the end of the dream, while
+you're already about to wake up.
+As a result when you're starting it's likely that this is where you realize it's
+a dream.
 
-If you do manage to stay calm, what also may happen is that you don't remember
-all the things you wanted to do.
+If this happens to you (it may not), don't worry about it!
+You just managed to get another step closer to your goals and whatever you're
+doing is working!
+Just keep going, eventually you'll get longer lucid dreams!
+
+What also may happen is that you don't remember all (or any of) the things you
+wanted to do when lucid dreaming.
 This is normal as well, and it can really suck, but once again remember that
 this is still a success!
 You've managed to stick in the dream, that's great!
 Eventually you'll get more aware of what you're doing.
-What also will help is using incubation to in advance set a goal of what you'll
-be doing in the lucid dream.
-(Once again, more on that later in this guide)
+What also will help is using incubation to set a goal of what you'll be doing in
+the lucid dream.
+More on that later in this guide.
 
 Regardless of what happened, if you made it to this step you've done great!
 You've set the first steps into your lucid dreaming adventure.
 If you haven't yet, that's alright.
 Just keep trying, and keep reading!
-The rest of this guide will have some more tips and tricks to make things easier
-and to help you in the dreams when you become lucid.
+The rest of this guide will have a common lucid dreaming method that's really
+easy to make use of and very effective, some more tips to make it easier to
+lucid dream, and tips to help you in the dreams when you become lucid.
 
 # Further Reading
 An extra technique you could make use of to remember your reality checks is
