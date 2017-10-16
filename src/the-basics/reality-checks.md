@@ -1,5 +1,6 @@
 # Reality Checks
-So you've decided to learn lucid dreaming, where do you start?
+So you want to lucid dream, and now you know how to actually remember your
+dreams, so what's next?
 You want to be able to know when you're dreaming.
 So, how do you know you're in a dream?
 Easy, you check if you are!
