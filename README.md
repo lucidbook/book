@@ -27,3 +27,8 @@ format everything to be consistent.
     section at the bottom of the article.
     Giving thanks to specific people for contributing or writing articles is of
     course fine, it's just important that nobody *owns* an article.
+- No linking or advertising software.
+    This dates the guide and locks out people who don't want to or can't use
+    specific software.
+    If you absolutely *have to* it should be Open Source software, which is more
+    likely to survive longer.
