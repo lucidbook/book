@@ -39,9 +39,15 @@ Done in conjunction of physical body dissociation, this is possibly the most pow
 This is going to sound quite weird, but in a nutshell what you want to do is to "visualize visualization" and you want to keep going down this path as much as you can. So in the end you may "visualize visualizing visualization" and so on...
 Don't worry too much about what this means or the details, just try to do whatever feels right.
 
+## Time dissociation
+Time dissociation is where the meditation session appears very long or short, when in reality it's quite the opposite.
+This can happen quite often if you dissociate, or practice deep meditation.
+
 ## Extra tips
 What you can do for extra focus & relaxedness, you can perform the 4-7-8 breathing technique which is explained by this awesome man!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gz4G31LGyog" frameborder="0" allowfullscreen></iframe>
 
 It helps you focus, it helps you relax, it helps you sleep faster, it relieves anxiety and you can get quite euphoric from it.
+
+Another thing to help with dissociation is visualizing your body parts disappearing as you dissociate from them.
