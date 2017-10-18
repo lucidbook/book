@@ -1,4 +1,4 @@
-# LucidBook Source
+# LucidBook Source [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/lucidbook/book.svg)](http://isitmaintained.com/project/lucidbook/book "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/lucidbook/book.svg)](http://isitmaintained.com/project/lucidbook/book "Percentage of issues still open")
 Go to [lucidbook.github.io](https://lucidbook.github.io/) for more information.
 
 ## Style Guide & General Guidelines
