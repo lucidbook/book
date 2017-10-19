@@ -1,6 +1,9 @@
 # LucidBook Source [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/lucidbook/book.svg)](http://isitmaintained.com/project/lucidbook/book "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/lucidbook/book.svg)](http://isitmaintained.com/project/lucidbook/book "Percentage of issues still open")
 Go to [lucidbook.github.io](https://lucidbook.github.io/) for more information.
 
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
 ## Style Guide & General Guidelines
 Here's a few guidelines for writing articles for this book, that should help you
 format everything to be consistent.
@@ -16,10 +19,8 @@ format everything to be consistent.
     title.
 
 ### External Links, References, and Attribution
-- Links to external sites are in a separate section at the bottom of the
-    article.
-- Links to other articles in the guide or outside it are under a heading
-    "Further Reading".
+- Links to articles within the book or external sites are in separate sections
+    at the bottom of the article.
 - Articles and techniques are not attributed to individual people within the
     book.
     These guides and techniques are worked and improved on by everyone.

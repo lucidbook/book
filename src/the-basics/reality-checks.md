@@ -113,7 +113,13 @@ Say to yourself every night before sleeping that you **will** have a lucid
 dream.
 Really believe it, even if you've been going for weeks without success.
 
-Eventually, you'll get the small successes.
+This technique is called "DILD" for Dream-Initiated Lucid Dream.
+Up next in this guide you'll read about another technique called "MILD" that
+will make it easier to become lucid as well.
+Both of these techniques benefit from persistence and time, it will become
+easier over time to become lucid.
+
+Eventually, you'll get a successes.
 You'll start being more aware in dreams, thinking more critically.
 You start noticing things are weird, but perhaps not quite realizing yet.
 And one day, you'll suddenly be standing there, looking at your hands having 6
@@ -157,10 +163,7 @@ The rest of this guide will have a common lucid dreaming method that's really
 easy to make use of and very effective, some more tips to make it easier to
 lucid dream, and tips to help you in the dreams when you become lucid.
 
-# Further Reading
+## Further Reading
 An extra technique you could make use of to remember your reality checks is
 called "Prospective Memory", there's no guide on this currently in this book.
-Instead you could read [this one](http://www.world-of-lucid-dreaming.com/how-to-have-more-lucid-dreams-with-prospective-memory.html).
-
-_This guide is still being written, the next chapter isn't finished yet, instead
-go to the [Lucid Dreaming Subreddit](https://www.reddit.com/r/LucidDreaming/)_
+Instead you could read [this one](http://www.dreamviews.com/attaining-lucidity/151321-prospective-memory-lucid-dreaming-4-a.html).
