@@ -1,4 +1,4 @@
-# BILD (Barrier Induced Lucid Dream)
+# BILD - Barrier Induced Lucid Dream
 **BILD** is a way to get lucid in your dreams via barriers that you set up.
 
 It can be any kind of barriers at all, the general idea of it is that those barriers will help you become lucid by putting you or even forcing you into a mindset to become lucid.
