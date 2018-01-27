@@ -1,6 +1,8 @@
 # Introduction
-Welcome (potential) lucid dreamer!
-- If you're new to lucid dreaming or don't know what it is, start with the chapter "The Basics".
+Welcome (potential) lucid dreamer, meditator, or otherwise!
+- If you're interested in lucid dreaming, but don't know what it is or how to do
+    it, look at the practice guides chapters. "Lucid Dreaming Basics" is a good
+    place to start.
 - If you want to contribute to this book, see the "Contributing" section below
     on how to do that.
 
@@ -9,12 +11,14 @@ if you feel the book needs the subject and doesn't have it yet, other
 contributors will clean them up and organize them._
 
 ## What you will find in this book
-- How to lucid dream and how to do various things while lucid dreaming.
+- Guides on lucid dreaming and related topics.
 - Structured guides on various lucid dreaming techniques.
 
 ## What you will _not_ find in this book
-- Paranormal guides or articles.
-- Devices, supplements or other paid books.
+- A metaphysical focus. Metaphysical articles and guides are allowed but should
+    be kept separated from the other articles. Different people have different
+    believes, and this book should be open to all believes.
+- Devices, supplements or other paid books. No advertising.
 
 ## Useful Links
 - [Lucid Dreaming Subreddit](https://www.reddit.com/r/LucidDreaming/)
