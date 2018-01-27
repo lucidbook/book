@@ -1,12 +1,8 @@
 # Reality Checks
-So you want to lucid dream, and now you know how to actually remember your
-dreams, so what's next?
-You want to be able to know when you're dreaming.
 So, how do you know you're in a dream?
 Easy, you check if you are!
 
 Reality checks are the bread and butter of lucid dreaming.
-They're the foundation most other techniques are based on.
 The concept is simple, when you're not sure if you're dreaming or not, you
 check!
 You might have however seen a problem with this, you don't just naturally tend
@@ -66,9 +62,7 @@ dreaming.
 **You should never be sure you're not dreaming, always assume you might be no
 matter what.
 A reality check can't prove that you are in reality, it can only prove that
-you're not.
-You should be living this, this should be on your mind all the time, that the
-world you're in might not be real.**
+you're not.**
 
 This is so incredibly key I can't make it bold enough text.
 You should **always** assume you might be dreaming, it is **always** a
@@ -124,44 +118,6 @@ You'll start being more aware in dreams, thinking more critically.
 You start noticing things are weird, but perhaps not quite realizing yet.
 And one day, you'll suddenly be standing there, looking at your hands having 6
 fingers.
-
-## HOLY CRAP MY HANDS HAVE 6 FINGERS
-So you've suddenly realized you're in a lucid dream, what next?
-You'll likely be very excited, the world around you may suddenly become a lot
-more vivid.
-Some however, then might wake up.
-
-A common theory is that the excitement is what wakes you up, but this doesn't
-seem to line up with the experiences of regular lucid dreamers.
-Rather, it seems that this theory has come from that beginner lucid dreamers
-are all the more excited when they get their first lucid dream.
-Rather, it's just more likely to become lucid at the end of the dream, while
-you're already about to wake up.
-As a result when you're starting it's likely that this is where you realize it's
-a dream.
-
-If this happens to you (it may not), don't worry about it!
-You just managed to get another step closer to your goals and whatever you're
-doing is working!
-Just keep going, eventually you'll get longer lucid dreams!
-
-What also may happen is that you don't remember all (or any of) the things you
-wanted to do when lucid dreaming.
-This is normal as well, and it can really suck, but once again remember that
-this is still a success!
-You've managed to stick in the dream, that's great!
-Eventually you'll get more aware of what you're doing.
-What also will help is using incubation to set a goal of what you'll be doing in
-the lucid dream.
-More on that later in this guide.
-
-Regardless of what happened, if you made it to this step you've done great!
-You've set the first steps into your lucid dreaming adventure.
-If you haven't yet, that's alright.
-Just keep trying, and keep reading!
-The rest of this guide will have a common lucid dreaming method that's really
-easy to make use of and very effective, some more tips to make it easier to
-lucid dream, and tips to help you in the dreams when you become lucid.
 
 ## Further Reading
 An extra technique you could make use of to remember your reality checks is

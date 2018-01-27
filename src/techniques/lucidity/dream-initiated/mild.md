@@ -1,6 +1,4 @@
 # MILD - Mnemonically Induced Lucid Dream
-Now that you've learned about the very basics of lucid dreaming, it's time to
-move on to one of the techniques that make it easier to become lucid.
 The MILD technique is very beginner-friendly, and has been very effective
 overall, regardless of experience.
 

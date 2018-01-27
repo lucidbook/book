@@ -1,17 +1,7 @@
-# Dream Recall
-So you've decided to learn lucid dreaming, where do you start?
-Well, let's start with a very common problem many people run in to, remembering
-your dreams.
-I mean, what's the point in having a lucid dream if you don't remember it?
-And you're also missing out on remembering tons of great adventures you're
-having every night!
-There's various methods for remembering dreams, in this chapter we'll only be
-going over the most common and reliable ones.
-
-## Dream Journals
+# Dream Journals
 The staple of every lucid dreaming diet!
-Dream journals are by far the most reliable technique for drastically improving
-your recall.
+Dream journals are a very reliable technique for drastically improving your
+recall.
 Even if you barely ever remember your dreams this will help you a lot.
 
 The easiest moment to remember your dreams is in the morning right after waking
@@ -33,16 +23,3 @@ as being important in your mind.
 
 Doing this will signal to your mind that dream recall is important to you.
 Over time you'll find it easier and easier to remember dreams.
-Most people leave it just at this technique but if you want to do some more...
-
-## Recall Your Day
-Right before sleeping or doing whatever technique you're planning to do for
-lucid dreaming, think back to your day.
-Try to remember it from start to finish.
-This will prime your mind for better recall during the night.
-
-## It's not working!
-Sometimes, you'll just get a while where you'll have no recall whatsoever.
-This happens even to the most experienced lucid dreamers now and then.
-Just keep journaling, even if you can't remember anything, and eventually your
-recall will come back.

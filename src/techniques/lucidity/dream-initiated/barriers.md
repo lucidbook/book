@@ -1,19 +1,19 @@
-# BILD - Barrier Induced Lucid Dream
-**BILD** is a way to get lucid in your dreams via barriers that you set up.
-
-It can be any kind of barriers at all, the general idea of it is that those barriers will help you become lucid by putting you or even forcing you into a mindset to become lucid.
-
-Eventually, because of the barriers, you'll do a reality check, feel or notice that something is wrong, or perhaps even notice the barriers themselves.
-
-This technique can grant you **omnilucidity** in a very simple and fast manner.
-
-### What is omnilucidity?
-**Omnilucidity** is when you are lucid in every single dream you have.
+# Barriers
+Barriers is a technique to induce lucid dreams by creating barriers you can only
+pass through if you're lucid.
+This can be any kind of barrier, the technique works by preventing you from
+moving forward until you're lucid, and by triggering lucidity simply with the
+existence of the barrier.
+Eventually, because of the barriers, you'll do a reality check, feel or notice
+that something is wrong, or perhaps even notice the barriers themselves.
 
 ## Setting up a barrier
-In order to set up a barrier, you will first need to have a lucid dream through other means. (DILD, MILD, WILD, ...)
+The barriers technique has to be done from inside a lucid dream.
+If you are not capable of lucid dreaming yet, take a look at other techniques
+that don't need to be done from inside a dream.
 
-Once you are in a lucid dream, you're going to want to go (Preferably) to your bedroom, or to any place of your choice where you'd like to setup a **spawning point**.
+Once you are in a lucid dream, you're going to want to go (Preferably) to your
+bedroom, or to any place of your choice where you'd like to setup a **spawning point**.
 
 ### A spawning point? Wha?
 Yes, either your bed or a place of your choice, when setting up the barriers, you will spawn there every dream, it will make sense as you continue reading the guide.
