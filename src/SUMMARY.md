@@ -12,6 +12,6 @@
             - [Barriers](./techniques/lucidity/dream-initiated/barriers.md)
         - [Wake Initiated](./techniques/lucidity/wake-initiated/index.md)
             - [Dissociation](./techniques/lucidity/wake-initiated/dissociation.md)
-        - [What is Lucid Dreaming](./techniques/lucidity/wake-up-back-to-bed.md)
+        - [Wake up, Back to Bed](./techniques/lucidity/wake-up-back-to-bed.md)
 - [Practice Guides](./practice-guides/index.md)
     - [Lucid Dreaming Basics](./practice-guides/lucid-dreaming-basics.md)
