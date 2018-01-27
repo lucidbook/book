@@ -117,7 +117,4 @@ More on that later in this guide.
 Regardless of what happened, if you made it to this step you've done great!
 You've set the first steps into your lucid dreaming adventure.
 If you haven't yet, that's alright.
-Just keep trying, and keep reading!
-The rest of this guide will have a common lucid dreaming method that's really
-easy to make use of and very effective, some more tips to make it easier to
-lucid dream, and tips to help you in the dreams when you become lucid.
+Just keep trying!
